@@ -12,7 +12,7 @@ Auto trade on Backpack exchange with Javascript:
   Video Guide: https://x.com/solotop999/status/1759194264830198145?s=20
 
 ----------------------------
-1. Create account: [Backpack](https://backpack.exchange/refer/TOP)
+1. Create account: [Backpack](https://backpack.exchange/refer/b9881b6d-7b9e-4f2c-96cb-f7c98902ad2b)
 
 2. Download code: [solotop999/auto_trade_backpack_exchange](https://github.com/solotop999/auto_trade_backpack_exchange/archive/refs/heads/main.zip)
 
